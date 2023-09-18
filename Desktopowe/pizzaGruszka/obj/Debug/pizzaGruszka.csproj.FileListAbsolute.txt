@@ -1,0 +1,10 @@
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\bin\Debug\pizzaGruszka.exe.config
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\bin\Debug\pizzaGruszka.exe
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\bin\Debug\pizzaGruszka.pdb
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.csproj.AssemblyReference.cache
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.Form1.resources
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.Properties.Resources.resources
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.csproj.GenerateResource.cache
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.csproj.CoreCompileInputs.cache
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.exe
+C:\Users\OGruszka\source\repos\pizzaGruszka\pizzaGruszka\obj\Debug\pizzaGruszka.pdb
