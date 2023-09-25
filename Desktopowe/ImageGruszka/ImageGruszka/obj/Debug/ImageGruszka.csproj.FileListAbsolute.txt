@@ -1,0 +1,10 @@
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\bin\Debug\ImageGruszka.exe.config
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\bin\Debug\ImageGruszka.exe
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\bin\Debug\ImageGruszka.pdb
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.csproj.AssemblyReference.cache
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.Form1.resources
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.Properties.Resources.resources
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.csproj.GenerateResource.cache
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.csproj.CoreCompileInputs.cache
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.exe
+C:\Users\OGruszka\source\repos\ImageGruszka\ImageGruszka\obj\Debug\ImageGruszka.pdb
